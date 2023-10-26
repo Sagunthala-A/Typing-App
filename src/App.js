@@ -4,6 +4,8 @@ import Header from './Components/Header';
 import Typingbody from './Components/Typingbody';
 import Footer from './Components/Footer';
 
+import './style.css'
+
 
 
 // 'rafce' stands for React Arrow Function Component with Export
